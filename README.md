@@ -1,4 +1,4 @@
-### Opa, seja bem-vindo ao meu GitHub👋
+### Opa, seja bem-vindo ao meu GitHub!👋
 
 - Graduando em Science Computer
 - Estudando Javascript 
